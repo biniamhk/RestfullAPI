@@ -5,7 +5,7 @@ import java.util.List;
 import javax.ws.rs.*;
 import javax.ws.rs.core.MediaType;
 
-
+// the path that connect with web browser
 @Path("contact")
 public class ContactResource {
 	
